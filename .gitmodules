@@ -1,0 +1,3 @@
+[submodule "Drishti_web"]
+	path = Drishti_web
+	url = https://github.com/Shadaan786/drishti.git
